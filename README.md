@@ -8,7 +8,10 @@
 
 # 2:  list [Data Structures & Algorithms in Kotlin |Lists Filtering, Mapping, More in Depth Examples Urdu/hindi](https://youtube.com/live/Zf6hWj_asUQ)
 
-# [resurce (files/code)](/2 list in kotlin.docx)
+# [resurce: files/code](/2 list in kotlin.docx)
+
+
+this is testing
 
 
 
