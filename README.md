@@ -10,7 +10,7 @@
 
 # [resurce: files/code](https://github.com/mazambaloch7/yt_dsa_kotlin_urdu/blob/main/2%20list%20in%20kotlin.docx)
 
-# [resurce: files/code](2 list in kotlin.docx)
+# [resurce: files/code(2 list in kotlin.docx)
 this is testing
 
 
